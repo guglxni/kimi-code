@@ -1,5 +1,11 @@
 # @moonshot-ai/kimi-code
 
+## 0.18.1
+
+### Patch Changes
+
+- [#910](https://github.com/MoonshotAI/kimi-code/pull/910) [`7644f10`](https://github.com/MoonshotAI/kimi-code/commit/7644f1036ca1079e4527c0b1c825ec5384d6d8da) - Fix provider requests failing when restored conversation history contains empty text content blocks.
+
 ## 0.18.0
 
 ### Minor Changes
